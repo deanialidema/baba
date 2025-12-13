@@ -150,7 +150,7 @@ export default function ScheduleCall() {
 
         {/* Right Column - Scheduling Flow */}
         <div className="flex-1 p-8 bg-gray-50">
-          <h2 className="text-2xl font-semibold mb-6">Schedule call with Nathalia Andrijic</h2>
+          <h2 className="text-2xl font-semibold mb-6">Schedule call with Helena</h2>
           <div className="flex items-center justify-between mb-8">
             <div className="flex flex-col items-center gap-2">
               <div className="w-10 h-10 rounded-full bg-blue-600 text-white flex items-center justify-center">
