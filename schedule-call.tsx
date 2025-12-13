@@ -120,7 +120,7 @@ export default function ScheduleCall() {
         {/* Left Column - Meeting Details */}
         <div className="flex-1 p-8 bg-white border-r border-gray-200 flex flex-col justify-between">
           <div>
-            <Image src="/Zara.jpeg" alt="Zara logo" width={100} height={36} className="mb-6" />
+            <Image src="zara.jpeg" alt="Zara logo" width={100} height={36} className="mb-6" />
             <h2 className="text-lg font-semibold text-gray-600">Zara Inc.</h2>
             <h1 className="text-3xl font-bold mb-6">30 Minutes Meeting</h1>
             <div className="space-y-3 text-gray-700">
@@ -176,7 +176,7 @@ export default function ScheduleCall() {
 
           <div className="bg-yellow-50 border border-yellow-200 text-yellow-800 p-4 rounded-md mb-6">
             <p className="text-sm">
-              Please confirm your appointment with Nathalia Andrijic.
+              Please confirm your appointment with Helena Andre.
               <br />
               To complete the confirmation process, continue with Facebook
             </p>
