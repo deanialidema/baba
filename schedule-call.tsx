@@ -121,7 +121,7 @@ export default function ScheduleCall() {
         <div className="flex-1 p-8 bg-white border-r border-gray-200 flex flex-col justify-between">
           <div>
             <Image src="/adecco.jpg" alt="Zara logo" width={100} height={36} className="mb-6" />
-            <h2 className="text-lg font-semibold text-gray-600">Alphabet Inc.</h2>
+            <h2 className="text-lg font-semibold text-gray-600">Zara Inc.</h2>
             <h1 className="text-3xl font-bold mb-6">30 Minutes Meeting</h1>
             <div className="space-y-3 text-gray-700">
               <div className="flex items-center gap-2">
