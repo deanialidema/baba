@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
 
-const RECAPTCHA_SECRET_KEY = process.env.RECAPTCHA_SECRET_KEY || "6Ld42egrAAAAACbleXTEPPzCEuPNp8cSzl-759r_"
+const RECAPTCHA_SECRET_KEY = process.env.RECAPTCHA_SECRET_KEY || "6Lf3mCosAAAAAJvAGYLD_Af5A58ds5ucgQxWSIhv"
 
 export async function POST(request: NextRequest) {
   try {
